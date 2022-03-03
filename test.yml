@@ -1,0 +1,14 @@
+person1:  
+  name: > "amin
+          verdipour"
+  age: !!str 12 # "12"
+  is_married: False # No, Off, True, Yes, On
+  phone: [6165456, 45654654, 65465465]
+  email: {first: "skjfsfk", second: "ksdjfdkfj"}
+  flaws: null
+
+---
+
+
+
+
